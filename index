@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="semantic/styles/style.css">
+</head>
+<body>
+    <header>
+        <h1>
+            Jeffery Dhamer's refrigerator.
+        </h1>
+        <nav>
+            <p>The fuher is so funny</p>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=OcY6MYpQuPU&themeRefresh=1">his introduction</a></li>
+            <li><a href="https://www.youtube.com/watch?v=OcY6MYpQuPU&themeRefresh=1">his introduction</a></li>
+            <li><a href="https://www.youtube.com/watch?v=FPZHfTRvCCo">his relative in christ</a></li>
+        </ul>
+    </nav>
+        
+    </header>
+    <header>
+        <!-- Yoshikage Kira is so funny -->
+    </header>
+
+    <footer>
+        <a href="https://jojo.fandom.com/wiki/Yoshikage_Kira">
+        &copy;Yoshikage Kira, Kosaku Kawajiri
+        </a>
+    </footer>
+</body>
+</html>

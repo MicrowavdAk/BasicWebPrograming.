@@ -4,31 +4,73 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="semantic/styles/style.css">
+    <link rel="stylesheet" href="/Autistic Codes/style.css">
 </head>
 <body>
     <header>
-        <h1>
-            Jeffery Dhamer's refrigerator.
-        </h1>
+        <h1>Jeffery Dahmer's refrigerator.</h1>
         <nav>
-            <p>The fuher is so funny</p>
-        <ul>
-            <li><a href="https://www.youtube.com/watch?v=OcY6MYpQuPU&themeRefresh=1">his introduction</a></li>
-            <li><a href="https://www.youtube.com/watch?v=OcY6MYpQuPU&themeRefresh=1">his introduction</a></li>
-            <li><a href="https://www.youtube.com/watch?v=FPZHfTRvCCo">his relative in christ</a></li>
-        </ul>
-    </nav>
-        
+            <p>The fuhrer is so funny</p>
+            <ul class="box">
+                <li><a href="https://www.youtube.com/watch?v=OcY6MYpQuPU&themeRefresh=1">his introduction</a></li>
+                <li><a href="https://www.youtube.com/watch?v=OcY6MYpQuPU&themeRefresh=1">his introduction</a></li>
+                <li><a href="https://www.youtube.com/watch?v=FPZHfTRvCCo">his relative in christ</a></li>
+            </ul>
+        </nav>
     </header>
-    <header>
-        <!-- Yoshikage Kira is so funny -->
-    </header>
+
+    <section>
+        <h1><a href="No Escape.html">Jeffery Dahmer's Refrigerator Exit</a></h1>
+        <div class="container">
+            <input
+             type="email"
+             class="form-control"
+             id="email"
+             name="email"
+             placeholder="Gimel hirr1!@31#21111"
+             pattern="[a-zA-Z0-9._%+-]+@gmail/.com"
+             required>
+          </div>
+          <div class="container">
+            <input
+             type="password"
+             class="form-control"
+             id="password"
+             name="password"
+             placeholder="Pesword hir!!!!11111"
+             required>
+          </div>
+          <button type="submit" class="btn btn-secondary">click click if done dones :D</button>
+    </section>
+
+    <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active" data-bs-interval="10000">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcbscu9hlz5pJWf5OyzcinBYUyOFYVPMxxSA&s" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+                <img src="https://i.redd.it/puq6ja268n3d1.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="https://media.tenor.com/5kPGK7tmLAYAAAAe/kosaku-kawajiri.png" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
 
     <footer>
         <a href="https://jojo.fandom.com/wiki/Yoshikage_Kira">
-        &copy;Yoshikage Kira, Kosaku Kawajiri
+            &copy; Yoshikage Kira, Kosaku Kawajiri
         </a>
     </footer>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-XXX" crossorigin="anonymous"></script>
 </body>
 </html>
